@@ -1,0 +1,7 @@
+data/**
+formats/**
+outputs/**
+programs/dev/*.log
+programs/dev/*.lst
+programs/qc/*.log
+programs/qc/*.lst
